@@ -1,0 +1,10 @@
+duration_val = svara_data['duration'].values
+plt.close('all')
+plt.hist(duration_val,bins=150)
+ax = plt.gca()
+plt.title('Duration histograms')
+plt.xlabel('Duration (s)')
+plt.ylabel('Count')
+ax.xaxis.set_minor_locator(MultipleLocator(0.1))
+plt.savefig('test.png')
+plt.close('all')

@@ -1,0 +1,116 @@
+
+Preceeding/Succeeding uniqueness: 50.0%
+Succeeding uniqueness: 16.67%
+Preceeding uniqueness: 50.0%
+
+Cluster 0, population: 15...
+   Full Context:
+   -------------
+      pa-ni: 4 (26.67%)
+      ri-ri: 1 (6.67%)
+      ni-ni: 3 (20.0%)
+      ni-pa: 3 (20.0%)
+      ni-ga: 1 (6.67%)
+      sa-ga: 1 (6.67%)
+      ni-ri: 1 (6.67%)
+      sa-sa: 1 (6.67%)
+   Preceeding Svara:
+   -----------------
+      pa: 4 (26.67%)
+      ri: 1 (6.67%)
+      ni: 8 (53.33%)
+      sa: 2 (13.33%)
+   Succeeding Svara:
+   ----------------
+      ni: 7 (46.67%)
+      ri: 2 (13.33%)
+      pa: 3 (20.0%)
+      ga: 2 (13.33%)
+      sa: 1 (6.67%)
+
+Cluster 1, population: 24...
+   Full Context:
+   -------------
+      ri-ni: 7 (29.17%)
+      ni-ni: 2 (8.33%)
+      ni-ri: 3 (12.5%)
+      ri-ri: 11 (45.83%)
+      sa-ri: 1 (4.17%)
+   Preceeding Svara:
+   -----------------
+      ri: 18 (75.0%)
+      ni: 5 (20.83%)
+      sa: 1 (4.17%)
+   Succeeding Svara:
+   ----------------
+      ni: 9 (37.5%)
+      ri: 15 (62.5%)
+
+Cluster 2, population: 6...
+   Full Context:
+   -------------
+      ri-ni: 4 (66.67%)
+      pa-ri: 1 (16.67%)
+      ri-ri: 1 (16.67%)
+   Preceeding Svara:
+   -----------------
+      ri: 5 (83.33%)
+      pa: 1 (16.67%)
+   Succeeding Svara:
+   ----------------
+      ni: 4 (66.67%)
+      ri: 2 (33.33%)
+
+Cluster 3, population: 4...
+   Full Context:
+   -------------
+      ri-ni: 4 (100.0%)
+   Preceeding Svara:
+   -----------------
+      ri: 4 (100.0%)
+   Succeeding Svara:
+   ----------------
+      ni: 4 (100.0%)
+
+Cluster 4, population: 26...
+   Full Context:
+   -------------
+      ni-ni: 1 (3.85%)
+      ni-ri: 6 (23.08%)
+      ga-ni: 1 (3.85%)
+      ri-ri: 9 (34.62%)
+      ri-ni: 7 (26.92%)
+      ga-ri: 2 (7.69%)
+   Preceeding Svara:
+   -----------------
+      ni: 7 (26.92%)
+      ga: 3 (11.54%)
+      ri: 16 (61.54%)
+   Succeeding Svara:
+   ----------------
+      ni: 9 (34.62%)
+      ri: 17 (65.38%)
+
+Cluster 5, population: 15...
+   Full Context:
+   -------------
+      ri-ni: 6 (40.0%)
+      ni-silence: 2 (13.33%)
+      sa-silence: 1 (6.67%)
+      ni-sa: 1 (6.67%)
+      ni-dha: 2 (13.33%)
+      silence-ri: 1 (6.67%)
+      ni-ri: 2 (13.33%)
+   Preceeding Svara:
+   -----------------
+      ri: 6 (40.0%)
+      ni: 7 (46.67%)
+      sa: 1 (6.67%)
+      silence: 1 (6.67%)
+   Succeeding Svara:
+   ----------------
+      ni: 6 (40.0%)
+      silence: 3 (20.0%)
+      sa: 1 (6.67%)
+      dha: 2 (13.33%)
+      ri: 3 (20.0%)

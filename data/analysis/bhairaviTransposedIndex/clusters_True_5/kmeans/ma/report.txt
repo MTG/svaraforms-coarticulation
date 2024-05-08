@@ -1,0 +1,126 @@
+
+Preceeding/Succeeding uniqueness: 50.0%
+Succeeding uniqueness: 25.0%
+Preceeding uniqueness: 37.5%
+
+Cluster 0, population: 11...
+   Full Context:
+   -------------
+      ga-pa: 5 (45.45%)
+      silence-pa: 3 (27.27%)
+      pa-ga: 3 (27.27%)
+   Preceeding Svara:
+   -----------------
+      ga: 5 (45.45%)
+      silence: 3 (27.27%)
+      pa: 3 (27.27%)
+   Succeeding Svara:
+   ----------------
+      pa: 8 (72.73%)
+      ga: 3 (27.27%)
+
+Cluster 1, population: 24...
+   Full Context:
+   -------------
+      dha-pa: 10 (41.67%)
+      pa-ga: 12 (50.0%)
+      pa-pa: 1 (4.17%)
+      ga-pa: 1 (4.17%)
+   Preceeding Svara:
+   -----------------
+      dha: 10 (41.67%)
+      pa: 13 (54.17%)
+      ga: 1 (4.17%)
+   Succeeding Svara:
+   ----------------
+      pa: 12 (50.0%)
+      ga: 12 (50.0%)
+
+Cluster 2, population: 31...
+   Full Context:
+   -------------
+      pa-ga: 24 (77.42%)
+      dha-pa: 3 (9.68%)
+      dha-ga: 3 (9.68%)
+      pa-pa: 1 (3.23%)
+   Preceeding Svara:
+   -----------------
+      pa: 25 (80.65%)
+      dha: 6 (19.35%)
+   Succeeding Svara:
+   ----------------
+      ga: 27 (87.1%)
+      pa: 4 (12.9%)
+
+Cluster 3, population: 19...
+   Full Context:
+   -------------
+      pa-ga: 2 (10.53%)
+      ga-ga: 7 (36.84%)
+      ga-pa: 9 (47.37%)
+      silence-pa: 1 (5.26%)
+   Preceeding Svara:
+   -----------------
+      pa: 2 (10.53%)
+      ga: 16 (84.21%)
+      silence: 1 (5.26%)
+   Succeeding Svara:
+   ----------------
+      ga: 9 (47.37%)
+      pa: 10 (52.63%)
+
+Cluster 4, population: 4...
+   Full Context:
+   -------------
+      ga-ga: 4 (100.0%)
+   Preceeding Svara:
+   -----------------
+      ga: 4 (100.0%)
+   Succeeding Svara:
+   ----------------
+      ga: 4 (100.0%)
+
+Cluster 5, population: 16...
+   Full Context:
+   -------------
+      pa-ga: 12 (75.0%)
+      dha-ga: 2 (12.5%)
+      dha-pa: 2 (12.5%)
+   Preceeding Svara:
+   -----------------
+      pa: 12 (75.0%)
+      dha: 4 (25.0%)
+   Succeeding Svara:
+   ----------------
+      ga: 14 (87.5%)
+      pa: 2 (12.5%)
+
+Cluster 6, population: 19...
+   Full Context:
+   -------------
+      ga-pa: 9 (47.37%)
+      ga-ga: 10 (52.63%)
+   Preceeding Svara:
+   -----------------
+      ga: 19 (100.0%)
+   Succeeding Svara:
+   ----------------
+      pa: 9 (47.37%)
+      ga: 10 (52.63%)
+
+Cluster 7, population: 12...
+   Full Context:
+   -------------
+      ga-pa: 9 (75.0%)
+      pa-ga: 1 (8.33%)
+      silence-pa: 1 (8.33%)
+      ga-ga: 1 (8.33%)
+   Preceeding Svara:
+   -----------------
+      ga: 10 (83.33%)
+      pa: 1 (8.33%)
+      silence: 1 (8.33%)
+   Succeeding Svara:
+   ----------------
+      pa: 10 (83.33%)
+      ga: 2 (16.67%)

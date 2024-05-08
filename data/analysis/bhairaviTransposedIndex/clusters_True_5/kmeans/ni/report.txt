@@ -1,0 +1,117 @@
+
+Preceeding/Succeeding uniqueness: 85.71%
+Succeeding uniqueness: 28.57%
+Preceeding uniqueness: 57.14%
+
+Cluster 0, population: 9...
+   Full Context:
+   -------------
+      dha-dha: 1 (11.11%)
+      dha-ni: 2 (22.22%)
+      dha-sa: 6 (66.67%)
+   Preceeding Svara:
+   -----------------
+      dha: 9 (100.0%)
+   Succeeding Svara:
+   ----------------
+      dha: 1 (11.11%)
+      ni: 2 (22.22%)
+      sa: 6 (66.67%)
+
+Cluster 1, population: 13...
+   Full Context:
+   -------------
+      sa-sa: 2 (15.38%)
+      ni-dha: 2 (15.38%)
+      sa-dha: 2 (15.38%)
+      sa-ni: 1 (7.69%)
+      dha-sa: 2 (15.38%)
+      sa-ga: 3 (23.08%)
+      silence-silence: 1 (7.69%)
+   Preceeding Svara:
+   -----------------
+      sa: 8 (61.54%)
+      ni: 2 (15.38%)
+      dha: 2 (15.38%)
+      silence: 1 (7.69%)
+   Succeeding Svara:
+   ----------------
+      sa: 4 (30.77%)
+      dha: 4 (30.77%)
+      ni: 1 (7.69%)
+      ga: 3 (23.08%)
+      silence: 1 (7.69%)
+
+Cluster 2, population: 15...
+   Full Context:
+   -------------
+      sa-dha: 9 (60.0%)
+      ri-dha: 4 (26.67%)
+      ri-ri: 2 (13.33%)
+   Preceeding Svara:
+   -----------------
+      sa: 9 (60.0%)
+      ri: 6 (40.0%)
+   Succeeding Svara:
+   ----------------
+      dha: 13 (86.67%)
+      ri: 2 (13.33%)
+
+Cluster 3, population: 16...
+   Full Context:
+   -------------
+      pa-dha: 11 (68.75%)
+      sa-dha: 1 (6.25%)
+      ri-ri: 1 (6.25%)
+      ri-sa: 3 (18.75%)
+   Preceeding Svara:
+   -----------------
+      pa: 11 (68.75%)
+      sa: 1 (6.25%)
+      ri: 4 (25.0%)
+   Succeeding Svara:
+   ----------------
+      dha: 12 (75.0%)
+      ri: 1 (6.25%)
+      sa: 3 (18.75%)
+
+Cluster 4, population: 5...
+   Full Context:
+   -------------
+      ri-sa: 4 (80.0%)
+      silence-sa: 1 (20.0%)
+   Preceeding Svara:
+   -----------------
+      ri: 4 (80.0%)
+      silence: 1 (20.0%)
+   Succeeding Svara:
+   ----------------
+      sa: 5 (100.0%)
+
+Cluster 5, population: 13...
+   Full Context:
+   -------------
+      dha-sa: 10 (76.92%)
+      sa-dha: 1 (7.69%)
+      sa-sa: 2 (15.38%)
+   Preceeding Svara:
+   -----------------
+      dha: 10 (76.92%)
+      sa: 3 (23.08%)
+   Succeeding Svara:
+   ----------------
+      sa: 12 (92.31%)
+      dha: 1 (7.69%)
+
+Cluster 6, population: 4...
+   Full Context:
+   -------------
+      sa-dha: 3 (75.0%)
+      ri-dha: 1 (25.0%)
+   Preceeding Svara:
+   -----------------
+      sa: 3 (75.0%)
+      ri: 1 (25.0%)
+   Succeeding Svara:
+   ----------------
+      dha: 4 (100.0%)
